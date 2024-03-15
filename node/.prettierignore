@@ -1,0 +1,18 @@
+# Root
+.git
+.github
+.idea/copilot
+.yarn
+dist
+node_modules
+
+# Artillery
+/artillery/report
+
+# Server
+/server/docs
+/server/gen
+
+# Client
+/client/src/__tests__/coverage
+/client/docs

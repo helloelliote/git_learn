@@ -1,0 +1,12 @@
+{
+  "name": "00_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day": "node index.js",
+    "night": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_intro/00_intro.iml" filepath="$PROJECT_DIR$/00_intro/00_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_basic/01_basic.iml" filepath="$PROJECT_DIR$/01_basic/01_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_bundle/02_bundle.iml" filepath="$PROJECT_DIR$/02_bundle/02_bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_create_react_app/03_create_react_app.iml" filepath="$PROJECT_DIR$/03_create_react_app/03_create_react_app.iml" />
+    </modules>
+  </component>
+</project>
